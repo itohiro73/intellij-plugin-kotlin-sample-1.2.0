@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.itohiro73.intellijpluginkotlinsample120.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.itohiro73.intellijpluginkotlinsample120.MyBundle
 
 class MyApplicationService {
 
